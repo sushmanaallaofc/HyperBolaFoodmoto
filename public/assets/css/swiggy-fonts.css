@@ -1,0 +1,287 @@
+@media (max-width: 320px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 100;
+    src: url(../fonts/100.6cb32a.woff2) format("woff2"),
+        url(../fonts/100.070c64.woff) format("woff"),
+        url(../fonts/100.38a45f.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 200;
+    src: url(../fonts/200.e268be.woff2) format("woff2"),
+        url(../fonts/200.89cca7.woff) format("woff"),
+        url(../fonts/200.05250f.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 300;
+    src: url(../fonts/300.ba01ac.woff2) format("woff2"),
+        url(../fonts/300.33e13d.woff) format("woff"),
+        url(../fonts/300.c91348.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 400;
+    src: url(../fonts/400.6c07a7.woff2) format("woff2"),
+        url(../fonts/400.fada48.woff) format("woff"),
+        url(../fonts/400.4ac89f.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 500;
+    src: url(../fonts/500.3af6fd.woff2) format("woff2"),
+        url(../fonts/500.812cea.woff) format("woff"),
+        url(../fonts/500.86c31e.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 600;
+    src: url(../fonts/600.bae1b5.woff2) format("woff2"),
+        url(../fonts/600.3ebf49.woff) format("woff"),
+        url(../fonts/600.cf0c18.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 700;
+    src: url(../fonts/700.c76c0e.woff2) format("woff2"),
+        url(../fonts/700.9b925c.woff) format("woff"),
+        url(../fonts/700.b5d7ce.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-weight: 800;
+    src: url(../fonts/500.3af6fd.woff2) format("woff2"),
+        url(../fonts/500.812cea.woff) format("woff"),
+        url(../fonts/500.86c31e.ttf) format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: ProximaNovaCondensedBold;
+    src: url(../fonts/ProximaNovaCondensedBold.bfd103.eot);
+    src: url(../fonts/ProximaNovaCondensedBold.bfd103.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/ProximaNovaCondensedBold.3a0aa8.woff2) format("woff2"),
+        url(../fonts/ProximaNovaCondensedBold.7f542e.woff) format("woff"),
+        url(../fonts/ProximaNovaCondensedBold.8e193e.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaExtraBold;
+    src: url(../fonts/ProximaNovaExtraBold.0d615e.eot);
+    src: url(../fonts/ProximaNovaExtraBold.8fa513.woff2) format("woff2"),
+        url(../fonts/ProximaNovaExtraBold.8ccec4.woff) format("woff"),
+        url(../fonts/ProximaNovaExtraBold.0efd24.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaCondensedBlack;
+    src: url(../fonts/ProximaNovaCondensedBlack.e5c0d2.woff2) format("woff2"),
+        url(../fonts/ProximaNovaCondensedBlack.27d99d.woff) format("woff"),
+        url(../fonts/ProximaNovaCondensedBlack.66ead0.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaCondensedRegular;
+    src: url(../fonts/ProximaNovaCondensedRegular.cee243.woff2) format("woff2"),
+        url(../fonts/ProximaNovaCondensedRegular.16ae6e.woff) format("woff"),
+        url(../fonts/ProximaNovaCondensedRegular.c1ff33.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: AsapCondensedSemiBold;
+    src: url(../fonts/AsapCondensed-SemiBold.3b3696.eot);
+    src: url(../fonts/AsapCondensed-SemiBold.3b3696.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/AsapCondensed-SemiBold.d349cd.woff) format("woff"),ś
+        url(../fonts/AsapCondensed-SemiBold.01eac0.ttf) format("truetype"),
+        url(../fonts/AsapCondensed-SemiBold.5ffd93.svg#AsapCondensedSemiBold) format("svg");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: ProximaNovaBlack;
+    src: url(../fonts/ProximaNovaBlack.12b3f4.woff2) format("woff2"),
+        url(../fonts/ProximaNovaBlack.772a27.woff) format("woff"),
+        url(../fonts/ProximaNovaBlack.995693.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaBold;
+    src: url(../fonts/bold.a46265.woff2) format("woff2"),
+        url(../fonts/bold.94e24b.woff) format("woff"),
+        url(../fonts/bold.0e962a.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaLight;
+    src: url(../fonts/ProximaNovaLight.01a088.woff2) format("woff2"),
+        url(../fonts/ProximaNovaLight.8eecf2.woff) format("woff"),
+        url(../fonts/ProximaNovaLight.41daf6.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaSemiBold;
+    src: url(../fonts/ProximaNovaSemiBold.aa8aea.woff2) format("woff2"),
+        url(../fonts/ProximaNovaSemiBold.023648.woff) format("woff"),
+        url(../fonts/ProximaNovaSemiBold.9b3298.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNovaCondensedExtraBold;
+    src: url(../fonts/ProximaNovaCondensedExtraBold.931241.woff2) format("woff2"),
+        url(../fonts/ProximaNovaCondensedExtraBold.c2e845.woff) format("woff"),
+        url(../fonts/ProximaNovaCondensedExtraBold.03f560.ttf) format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-BlackIt.633ac6.eot);
+    src: url(../fonts/BasisGrotesquePro-BlackIt.633ac6.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-BlackIt.f1819a.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-BlackIt.b5e9f0.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-BlackIt.f4a89a.ttf) format("truetype");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-BoldIt.7cfc5f.eot);
+    src: url(../fonts/BasisGrotesquePro-BoldIt.7cfc5f.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-BoldIt.f03894.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-BoldIt.068638.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-BoldIt.8e42e6.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-Black.2d6731.eot);
+    src: url(../fonts/BasisGrotesquePro-Black.2d6731.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-Black.06d51c.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-Black.9bbd62.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-Black.0c4e78.ttf) format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-Light.dbd5c4.eot);
+    src: url(../fonts/BasisGrotesquePro-Light.dbd5c4.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-Light.69c854.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-Light.12e77a.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-Light.70a916.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-LightIt.593494.eot);
+    src: url(../fonts/BasisGrotesquePro-LightIt.593494.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-LightIt.cb2766.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-LightIt.04b905.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-LightIt.e127d6.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-Bold.5fc264.eot);
+    src: url(../fonts/BasisGrotesquePro-Bold.5fc264.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-Bold.056a96.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-Bold.6a4322.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-Bold.46e17b.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro OffWhite";
+    src: url(../fonts/BasisGrotesquePro-OffWhiteIt.57c52b.eot);
+    src: url(../fonts/BasisGrotesquePro-OffWhiteIt.57c52b.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-OffWhiteIt.f41743.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-OffWhiteIt.8fe1bb.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-OffWhiteIt.0498ad.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-MediumIt.fd7a32.eot);
+    src: url(../fonts/BasisGrotesquePro-MediumIt.fd7a32.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-MediumIt.75b4ab.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-MediumIt.8f518d.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-MediumIt.e687d4.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro OffWhite";
+    src: url(../fonts/BasisGrotesquePro-OffWhite.084530.eot);
+    src: url(../fonts/BasisGrotesquePro-OffWhite.084530.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-OffWhite.aa2c27.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-OffWhite.3d2e6c.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-OffWhite.a4592b.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-Regular.a7c025.eot);
+    src: url(../fonts/BasisGrotesquePro-Regular.a7c025.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-Regular.5eedab.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-Regular.d05af3.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-Regular.166d5c.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-It.2dfe25.eot);
+    src: url(../fonts/BasisGrotesquePro-It.2dfe25.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-It.82c8cc.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-It.396ea2.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-It.e9c9c0.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Basis Grotesque Pro";
+    src: url(../fonts/BasisGrotesquePro-Medium.7b691f.eot);
+    src: url(../fonts/BasisGrotesquePro-Medium.7b691f.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/BasisGrotesquePro-Medium.6c44cb.woff2) format("woff2"),
+        url(../fonts/BasisGrotesquePro-Medium.eacca0.woff) format("woff"),
+        url(../fonts/BasisGrotesquePro-Medium.cd2ee4.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+.fonts-loaded {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    letter-spacing: 0;
+}
+
+.rupee:before {
+    content: "\20B9";
+    margin-right: 0.1rem;
+}

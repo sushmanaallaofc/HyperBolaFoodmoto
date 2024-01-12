@@ -1,0 +1,13 @@
+.date-selection-appbar {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .date-tab {
+    text-transform: none;
+    font-weight: bold;
+  }
+  
+  .tab-panel {
+    padding: 16px;
+  }

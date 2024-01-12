@@ -1,0 +1,9 @@
+.selected {
+    margin-right: -16px;
+    z-index: 2;
+}
+  
+.selected + ._1Wal2 {
+    position: relative;
+    z-index: 1;
+}
